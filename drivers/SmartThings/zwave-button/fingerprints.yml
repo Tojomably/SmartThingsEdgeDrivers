@@ -85,4 +85,10 @@ zwaveManufacturer:
     productId: 0xD001
     productType: 0x0924
     deviceProfileName: multi-button-4
+  - id: "0330/0300/B302"
+    deviceLabel: Namron 4 Channel Remote
+    manufacturerId: 0x0330
+    productType: 0x0300
+    productId: 0xB302
+    deviceProfileName: multi-button-4
     
